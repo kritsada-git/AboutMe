@@ -65,9 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kritsada-git/kritsada-git/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/kritsada-git/count.svg?"  />
